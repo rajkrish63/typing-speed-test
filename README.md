@@ -3,7 +3,7 @@
 ## Overview
 A sleek, minimalist web application designed to measure and improve typing speed and accuracy.
 🔗 Live Demo
-View Live Demo (https://rajkrish63.github.io/typing-test)
+View Live Demo (https://rajkrish63.github.io/typing-speed-test)
 
 ## 🌟 Features
 - 30-second typing test
@@ -26,12 +26,12 @@ View Live Demo (https://rajkrish63.github.io/typing-test)
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/rajkrish63/typing-test.git
+git clone https://github.com/rajkrish63/typing-speed-test.git
 ```
 
 2. Navigate to project directory
 ```bash
-cd typing-test
+cd typing-speed-test
 ```
 
 3. Open `index.html` in your web browser
